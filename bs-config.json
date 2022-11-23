@@ -1,0 +1,7 @@
+{
+    "port": 8000,
+    "files": ["./app/dist/**/*.{html,htm,css,js}"],
+    "server": { "baseDir": "./src" },
+    "startPath": "./app/dist"
+}
+  
